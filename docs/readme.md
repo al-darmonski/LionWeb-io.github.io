@@ -70,6 +70,18 @@ In terms of how we work, we aim for a collegial atmosphere and effective technic
 
 This project will not provide production-quality implementations for the repositories or clients; we expect this to be done by the community, for example, based on the tools mentioned in the History section.
 
+## Implementations
+### Apps
+### Integrations 
+### Librarires
+| Feature                                      | C#    |
+| ---------                                    | ----- |
+| M1/M2 (de)serializer - memory-efficient      | ✅   |
+| high-level semantic-enforcing node API       | ✅   |
+| Roslyn-based generator LionWeb M2 → C# types | ✅   |
+| Extensive test coverage                      | ✅   |
+
+
 ## Participation
 
 Currently, LionWeb consists of ten developers, all with a long history in language engineering and modeling tools (listed in alphabetical order)
